@@ -43,21 +43,30 @@ These are the technologies I use or have worked with.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats :bar_chart:
+## 📊 GitHub Stats & Activity :bar_chart:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kyrollo&label=Profile%20Views&color=70a5fd&style=flat-square&labelColor=1a1b27" alt="Profile views" />
 </p>
 
+<!-- GitHub Activity Overview: 655+ Contributions, 51 Public Repos, Contribution Timeline -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kyrollo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrollo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyrollo&theme=tokyonight" alt="GitHub Profile Activity Overview" />
 </p>
 
+<!-- Polyglot Tech Stack: Top Languages by Repos & Code Breakdown -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kyrollo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyrollo&theme=tokyonight" alt="Top Languages by Repo" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrollo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
+<!-- Contribution Streak & Productive Coding Hours (Cairo UTC+2) -->
+<p align="center">
+  <img height="195" src="https://streak-stats.demolab.com/?user=Kyrollo&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kyrollo&theme=tokyonight&utcOffset=2" alt="Productive Coding Hours" />
+</p>
+
+<!-- Dynamic Contribution Grid Snake -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyrollo/Kyrollo/output/github-contribution-grid-snake-dark.svg" />
